@@ -1,1 +1,0 @@
-# quyettung.github.io
