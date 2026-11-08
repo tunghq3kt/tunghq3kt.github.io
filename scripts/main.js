@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['MY DEAR', 'LOOK UP AT THE', 'STARRY SKY', 'ARE YOU', 'LOOKING AT THE', 'SAME STAR', 'WITH ME ?', 'HAPPY VALENTINE\'S', 'DAY', 'MISS YOU, MINH ANH']
+  let texts = ['MY DEAR', 'LOOK UP AT THE', 'STARRY SKY', 'ARE YOU', 'LOOKING AT THE', 'SAME STAR', 'WITH ME ?', 'HAPPY VALENTINE\'S', 'DAY', 'MISS YOU, QUYNH NHU']
 
   let canvas,
     ctx,
@@ -221,7 +221,6 @@
       const iframe = document.getElementById("iframeAudio");
         if(iframe) iframe.remove();
   }
-  // setTimeout(() => {
   init()
-  // }, 4000);
+  
 })(window)
